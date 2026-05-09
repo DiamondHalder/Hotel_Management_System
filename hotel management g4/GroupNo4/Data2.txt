@@ -1,2 +1,0 @@
-First name	Last name	Occupation	Gender	NID	Days	Room no	Roob bill	Paid amount	Due amount	Phone number	Password	
-kaushik	roy	Student	Male	45567525	2	Deluxe-2	20000	0	20000	01552362362	111	

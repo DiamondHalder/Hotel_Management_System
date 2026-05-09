@@ -1,1 +1,0 @@
-First name	Last name	Occupation	Gender	NID	Days	Room no	Roob bill	Paid amount	Due amount	Phone number	Password	

@@ -1,6 +1,0 @@
-aa	11
-aaa	111
-aaa	111
-asd	123
-qwe	234
-xyz	123
